@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.social</groupId>
+  <artifactId>spring-social-salesforce</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131115064238</lastUpdated>
+  </versioning>
+</metadata>
